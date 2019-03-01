@@ -1,3 +1,3 @@
 require 'bundler/setup'
-group :development 
+group :development
 group :test
